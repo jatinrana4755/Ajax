@@ -1,0 +1,939 @@
+    :root{
+
+        font-size: 16px;
+    }
+
+
+
+    .color{
+    background-color:#4267b2;
+        
+        padding-bottom:0vh;
+        padding-top: 1vh;
+       
+
+    }
+    .nucleus{
+        color:  white;
+    }
+    .color-one{
+        color: white;
+        font-weight:700;
+    }
+    .margin-right{
+        margin-right: 18vw;
+    }
+
+    .fa{
+        padding-top: 1vh;
+    }
+    .size{
+        width:2.5vw;
+            height: 6vh;
+            border-radius: 50%;
+
+    }
+
+    .size-one
+    {
+         width:3vw;
+            height: 3vh;
+            border-radius: 50%;
+            margin-left: 3.3vw;
+            margin-top: 0.6vw;
+        
+            
+
+    }
+
+
+
+
+    .sublime{
+        padding-left: 0vw;
+    }
+
+    .sb
+    {
+        width:15vw;
+        margin-top:  4vh;
+        margin-left:  2.9vw;
+    }
+
+    .color-btn{
+        background-color: #f6f7f9;
+    }
+
+    .left{
+         padding-left: 7vw;
+
+    }
+    .left-one{
+
+         padding-left: 4vw;
+         padding-top:  2vh;
+    }
+    .class{
+         padding-left: 3vw;
+        padding-top:  2vh;
+         font-weight: 600;
+         font-size: 1rem;
+
+    }
+    .fab{
+          padding-left: 3vw;
+        
+    }
+    .explore{
+        padding-left:  3vw;
+            padding-top: 6vh;
+
+    }
+    .saved{
+        padding-left:  3vw;
+
+    }
+    .ad{
+
+         padding-left:25px;
+        
+            font-size:0.9rem;
+
+    }
+
+
+    .pencil{
+
+        width:2.5vw;
+        padding-right: 1vw;
+
+
+    }
+    .pencil-three{
+      width:2.5vw;
+        padding-right: 1vw;   
+    }
+    .pencil-one {
+        width:2.5vw;
+        padding-right: 1vw;
+        
+
+
+    }
+    .pencil-two{
+            width:0.8vw;
+        margin-left: 5.8vw;
+
+    }
+    .on{
+        width:0.8vw;
+        margin-left: 6.2vw;
+
+    }
+
+    .off{
+         width:0.8vw;
+        margin-left: 5.3vw;
+
+    }
+    .sanjeev{
+        width:0.8vw;
+        margin-left: 6.4vw;
+    }
+    .nayan{
+        width:0.8vw;
+        margin-left: 6.4vw;
+    }
+    .rohan{
+        width:0.8vw;
+        margin-left: 6.5vw;
+    }
+    .chirag{
+        width:0.8vw;
+        margin-left: 6.8vw;
+    }
+    .shakti{
+        width:0.8vw;
+        margin-left:7.2vw;
+    }
+
+    .abhinav{
+        width:0.8vw;
+        margin-left: 6vw;
+    }
+    .how
+    {
+       position: absolute;
+       margin-left: 32vw; 
+       margin-top: 0.7vw;
+
+    }
+
+    .part{
+        font-size: 1rem;
+    }
+
+    .carry{
+         border-top:1px solid #e9eaed;
+        margin-top: 2vh
+        
+    }
+
+    .now{
+        margin-top:2vh;
+        width:16vw;
+
+
+    }
+    .now-one{
+        width:3vw;
+        margin-top:2vh;
+        border-radius: 20px;
+
+    }
+    .body-card{
+
+        margin-right: 7vw;
+
+
+    }
+    .carry-one{
+        margin-top: 2vh
+
+    }
+    .carry-two{
+        margin-top: 2vh;
+        padding-left:2vw;
+        
+    }
+
+
+    .md{
+        background-color: #e9ebee;
+    }
+
+
+
+    .space{
+        width:3vw;
+        height: 6vh;
+
+    }
+        .search{
+
+            width:50%;
+            
+            padding-left: 0vw;
+            padding-right: 10vw;
+            padding-top: 1vh;
+            padding-bottom: 0vh;
+
+        }
+        .calc{
+        padding-bottom: 4vh;
+        padding-top: 3vh;
+
+
+        }
+        .para{
+            font-weight: 700;
+            padding-top: 4vh;
+            color:#4b4f56;
+            font-size: 1.4rem;
+            padding-left: 3vw;
+
+    }
+    .style{
+        border-bottom: 1px solid #ddd;
+
+
+    }
+    .font{
+        font-weight: 700;
+        font-style: bolder;
+        font-size: 1.1rem;
+        padding-top: 2vh;
+
+    }
+    .font-one{
+        font-size: 0.9rem;
+        font-weight: normal;
+    }
+    .right{
+        border-right:1px solid #e9eaed;
+
+    }
+    .left{
+        border-left:1px solid #e9eaed;
+
+
+    }
+    .bottom{
+        border-top:1px solid #e9eaed;
+        padding-bottom: 0;
+        padding-top: 3vh;
+
+
+    }
+    .top{
+        padding-top: 2vh;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .top-space{
+        padding-top: 6vh;
+
+        text-transform: uppercase;
+
+    }
+    .sizeFont{
+        font-size: 1rem;
+    }
+
+    .highlight{
+        border-color: blue;
+        border-style:dotted;
+        border-width: 3px;
+        width: 4vw;
+        height: 6vh;
+
+
+
+    }
+    .padding-left{
+        padding-left: 1vw;
+    }
+    #pad{
+        padding-left: 3vw;
+    }
+
+    .userDetails{
+        border:2px solid #ddd;
+        border-radius: 0.5em;
+    }
+
+    .coverHeight {
+        max-height: 300px;
+        overflow: hidden;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .one{
+        background-size: cover;
+        max-height:600px;
+        width: 400px;
+
+    }
+    .one-two{
+        margin-top: 2vh;
+    }
+    .pitty{
+        margin-top:2vh;
+        width:2.5vw;
+            height: 6vh;
+            border-radius: 50%;
+    }
+
+    .powder{
+        padding-left: 3vw;
+    }
+    .powder-right{
+
+        padding-right: 0.2vw;
+    }
+    .cat{
+        padding-left: 3.2vw;
+    }
+    .bro{
+        padding-left: 3.2vw;
+
+    }
+    .pradeep{
+
+        padding-left: 3.2vw;
+
+
+    }
+    .logo{
+        padding-left: 3.2vw;
+
+    }
+    .did{
+        padding-left: 3.2vw;
+
+    }
+    .gym{
+        padding-left: 3.2vw;
+    }
+
+    .negi{
+        padding-left: 3.2vw;
+
+    }
+    .anky{
+        padding-left: 3.2vw;
+
+
+    }
+
+    .pig{
+        padding-left: 3.2rem;
+    }
+    .voda{
+        padding-left: 3.2vw;
+
+
+    }
+
+
+    .airtel{
+        padding-left: 3vw;
+    }
+    .man{
+        padding-left: 2vw;
+    }
+    .wo{
+        padding-bottom: 3vh;
+    }
+
+    #custom-search-input {
+      position: relative;
+        
+
+    }
+
+
+
+    .padding-bottom{
+        padding-top: 15vh;
+        color:  black;
+        font-weight: 900;
+        font-size: 2vw;
+    }
+    .border{
+        border-right:1px solid #e9eaed;
+        padding: 1em;
+            color:#4267b2;
+
+    }
+    .col-md-3{
+        position: fixed;
+         top: 0px;
+
+    }
+    .sun{
+         border-left:1px solid #999ba3;
+         background-color: #e9ebee;
+        
+    }
+    .cyc{
+         background-color: #e9ebee;
+
+    }
+    .tv{
+        padding-top:  2vh;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 0.9rem;
+        padding-left: 1vw;
+
+    }   
+    .happu{
+        width:3vw;
+        height: 10vh;
+        border-radius: 50%;
+    }
+
+    .dm{
+        margin-top: 2vh;
+        margin-right: 2vw;
+    }
+    .pt{
+         padding-left:21vw;
+         padding-top: 0vh;
+    }
+
+    .bord{
+           border-top:1px solid #e9eaed;
+        padding-top:6vh;
+        
+
+    }
+    .text-align{
+        text-align: center;
+        padding-top: 2vh;
+        font-weight: 700;
+    }
+
+
+    a{
+        cursor: pointer;
+        text-decoration: none;
+    }
+     
+
+
+    #dataSection {
+        display: none;
+        background-color:;
+            
+
+    }
+    .explica{
+        width:18vw;
+        border-radius: 6vw;
+        height: 7vh;
+    }
+    .don{
+    padding-left: 2vw;
+
+
+    }
+
+    .tall{
+        width:20vw;
+        border-radius: 6vw;
+        height: 14vh;
+    }
+    .plug{
+        background-color: #f2f3f5;
+    }
+    .nose{
+        width: 22vw;
+        height: 6vw;
+        margin-left: 3vw;
+        color: white;
+
+    }
+    .vir{
+        margin-top: 2vh;
+    }
+
+    @media screen and (min-width: 480px) and (max-width: 767px)
+
+    {
+        .col-sm-12 .card{
+           
+            width: 100%;
+        }
+        .nav{
+            display: flex;
+        
+
+        }
+        .nav-item{
+            width: 16%;
+            margin-right: 2vw;
+            
+
+        }
+        .size{
+              width:7vw;
+            height: 7vh;
+            border-radius: 50%;
+            margin-left: 2vw;
+
+    }
+
+    .search{
+
+            width:50%;
+            
+            padding-left: 0vw;
+            padding-right: 0vw;
+            padding-top: 1vh;
+            padding-bottom: 0vh;
+
+        }
+        .space{
+        width:8vw;
+        height: 6vh;
+
+    }  
+    .now{
+        margin-top:2vh;
+        width:33vw;
+
+
+    }
+    .now-one{
+        width:9vw;
+        margin-top:2vh;
+        border-radius: 20px;
+
+    }
+    .man{
+        padding-left:   4.5vw;
+        padding-right:   4.5vw;
+
+    }
+    .wo{
+        padding-bottom: 3vh;
+    }
+    .pencil{
+
+        width:6vw;
+        padding-right: 1vw;
+
+
+    }
+    .carry-one{
+        margin-top: 2vh
+
+    }
+    .carry{
+        padding-left: 5vw;
+    }
+    .how
+    {
+       position: absolute;
+       margin-left: 70vw; 
+       margin-top: 1.4vw;
+
+    }
+    .pencil-one {
+        width:4vw;
+        padding-right: 1vw;
+        
+
+
+    }
+    .pencil-three{
+      width:4.3vw;
+        padding-right: 1vw;   
+    }
+    .pitty{
+        margin-top:2vh;
+        width:5vw;
+            height: 6vh;
+            border-radius: 50%;
+    }
+    .nose{
+        width: 40vw;
+        height:18vh;
+        margin-left: 3vw;
+        color: white;
+
+    }
+    }
+
+
+
+    @media screen and (max-width: 480px)
+    {
+     .col-sm-12 .card{
+           
+            width: 100%;
+
+
+        } 
+
+        .color{
+             background-color: #4267b2;
+        padding-bottom:0vh;
+        padding-top: 2vh;
+        }
+        .jatin{
+             font-size: 0.9rem;
+            
+        }
+        #jadu{
+            margin-bottom: 4vh;
+        }
+
+        #college{
+             font-size: 0.9rem;
+             padding-right: 3vw;
+        }
+
+    .margin-right{
+
+        padding-right: 2vw;
+    }
+
+     .space{
+        width:12vw;
+        height: 6vh;
+
+    }  
+
+    .size{
+        width:10vw;
+            height: 6.5vh;
+            border-radius: 50%;
+            margin-left: 1vw;
+
+    }
+     .search{
+
+            width:75%;
+            
+            padding-left: 0vw;
+            padding-right: 0vw;
+            padding-top: 1vh;
+            padding-bottom: 0vh;
+
+        }
+        .width{
+            width: 0.5vw;
+        }
+
+        .nav{
+            display: flex;
+            flex-wrap: wrap;
+
+        }
+        .nav-item{
+            width: 30%;
+            padding-left: 7vw;
+        }
+        .now{
+        margin-top:2vh;
+        width:38vw;
+
+
+    }
+    .now-one{
+        width:9vw;
+        margin-top:2vh;
+        border-radius: 20px;
+
+    }
+    .man{
+        padding-left:   4.5vw;
+        padding-right:   4.5vw;
+
+    }
+    .wo{
+        padding-bottom: 3vh;
+    }
+    .pencil{
+
+        width:6vw;
+        padding-right: 1vw;
+
+
+    }
+    .body-card{
+
+        margin-right: 7vw;
+
+
+    }
+    .carry-one{
+        margin-top: 2vh
+
+    }
+    .ad{
+         padding-left:6px;
+        
+            font-size:0.9rem;
+    }
+    .pencil{
+
+        width:5vw;
+        padding-right: 0vw;
+
+
+    }
+    .pencil-three{
+      width:5vw;
+        padding-right: 0vw;   
+    }
+    .how
+    {
+       position: absolute;
+       margin-left: 70vw; 
+       margin-top: 3vw;
+
+    }
+    .pencil-one {
+        width:5vw;
+        padding-right: 1vw;
+        
+    }
+    .pitty{
+        margin-top:2vh;
+        width:7vw;
+            height: 6vh;
+            border-radius: 50%;
+    }
+    .nose{
+        width: 40vw;
+        height:40vw;
+        margin-left: 3vw;
+        color: white;
+
+    }
+
+    }
+
+
+
+    @media screen and (min-width: 767px) and (max-width:1300px)
+
+    {
+    .search{
+
+            width:35%;
+            
+            padding-left: 0vw;
+            padding-right: 10vw;
+            padding-top: 1vh;
+            padding-bottom: 0vh;
+
+        }
+        .size{
+        width:4vw;
+            height: 6.5vh;
+            border-radius: 50%;
+
+    }
+    .space{
+        width:5vw;
+        height: 6vh;
+
+    }
+
+    .margin-right{
+        margin-right: 0vw;
+
+     }
+       .build{
+        font-size: 0.8rem;
+       }
+
+    .ad{
+
+         padding-left:13px;
+        
+            font-size:0.9rem;
+
+    }
+
+    .sun{
+    display: flex;
+    }
+
+    .happu{
+        width: 10%;
+    }
+
+    .pencil-two{
+            width:1vw;
+        margin-left: 3.6vw;
+
+    }
+
+    .on{
+        width:1vw;
+        margin-left: 4vw;
+
+    }
+
+    .off{
+         width:1vw;
+        margin-left: 2.9vw;
+
+    }
+    .sanjeev{
+        width:1vw;
+        margin-left: 4.2vw;
+    }
+    .nayan{
+        width:1vw;
+        margin-left: 4.3vw;
+    }
+    .rohan{
+        width:1vw;
+        margin-left: 4.3vw;
+    }
+    .chirag{
+        width:1vw;
+        margin-left:4.5vw;
+    }
+    .shakti{
+        width:1vw;
+        margin-left:5vw;
+    }
+
+    .abhinav{
+        width:1vw;
+        margin-left:3.6vw;
+    }
+    .rody{
+        font-size: 0.8rem;
+    }
+    .now-one{
+        width: 5vw;
+    }
+    .how
+    {
+       position: absolute;
+       margin-left: 28vw; 
+       margin-top: 1.2vw;
+
+    }
+    .pencil-one {
+        width:3vw;
+        padding-right: 1vw;
+        
+    }
+
+    .now{
+        width: 17vw;
+    }
+
+    .pencil-three{
+      width:3vw;
+        padding-right: 1vw;   
+    }
+    .size-one{
+         width:4vw;
+            height: 3vh;
+            border-radius: 50%;
+            margin-left: 4vw;
+    }
+    .size{
+        width:4vw;
+            height: 6.5vh;
+            border-radius: 50%;
+
+    }
+    .sb
+    {
+        width:24vw;
+        margin-top:  4vh;
+        margin-left:  0vw;
+    }
+    .pitty{
+        margin-top:2vh;
+        width:4vw;
+            height: 6vh;
+            border-radius: 50%;
+    }
+    .sublime{
+        
+        font-size: 0.9rem;
+    }
+
+    .size-one
+    {
+         width:4vw;
+            height: 3vh;
+            border-radius: 50%;
+            margin-left: 1.2vw;
+            margin-top: 0.6vw;
+        
+    }
+    .nose{
+        width: 20vw;
+        height:16vh;
+        margin-left: 3vw;
+        color: white;
+
+    }
+
+    }
